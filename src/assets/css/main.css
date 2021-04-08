@@ -1,0 +1,19 @@
+.App {
+  height: 100vh;
+}
+
+.userInfos {
+  height: 10%;
+}
+
+.text-primary {
+  color: #18bc9c!important;
+}
+
+.grey {
+  background-color: rgb(216, 216, 216);
+}
+
+.w-35 {
+  width: 35%;
+}

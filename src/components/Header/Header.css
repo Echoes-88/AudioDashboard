@@ -1,0 +1,7 @@
+.bg-gradient-primary {
+  background: linear-gradient(45deg, #18bc9c 0,#18abbc 100%)
+}
+
+.logo {
+  height: 50px;
+}
